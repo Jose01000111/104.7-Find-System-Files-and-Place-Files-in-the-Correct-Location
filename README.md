@@ -7,9 +7,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [EXAM OBJECTIVE 104.7](https://www.lpi.org/our-certifications/exam-101-102-objectives/#104.7_Find_system_files_and_place_files_in_the_correct_location)
 
-[OBJ. 104.7 NOTES]()
+[OBJ. 104.7 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/ESsAHgPWeqBFlBD-vYbNmiQBaEO2Yl6IWQaaD0pSNOMJDg?e=b9lEgE)
 
-[OBJ. 104.7 LAB]()
+[OBJ. 104.7 LAB](https://1drv.ms/w/c/354f1c8d534fbced/EXdWdFCSZptBtAEnCH4sOX4Bp03EHHaA3BBk26rwSBOxog?e=DPRckH)
 
 ---
 
